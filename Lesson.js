@@ -320,4 +320,36 @@
 // console.log(random);
 
 // console.log("\u{1F60D}");
-console.log("\u{1F60D}");
+// console.log("\u{1F60D}");
+
+// let age = [12,18,21];
+// console.log(age.shift());
+// console.log(age);
+// console.log(age.unshift(9));
+// console.log(age);
+// age.push(25);
+// console.log(age);
+// age.pop();
+// console.log(age);
+
+// let num = [];
+// num.one = 1;
+// console.log(num);
+// num[0] = 1;
+// num[10] = 10;
+// console.log(num);
+// num[1] = 10;
+// num[0] = 9;
+// console.log(num);
+
+// let age = [12,18,21];
+// age.length = 1;
+// console.log(age);
+
+// let game = [
+//     ['x','o','o'],
+//     ['o','x','x'],
+//     ['o','x','x'],
+// ]
+// console.log(game[1][2]);
+
