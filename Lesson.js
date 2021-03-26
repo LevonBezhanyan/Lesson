@@ -353,3 +353,6 @@
 // ]
 // console.log(game[1][2]);
 
+let a = 1e-7
+console.log(a);
+console.log(a.toFixed(2));
