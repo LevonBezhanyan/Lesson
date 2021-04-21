@@ -128,3 +128,36 @@
 
 // i1 = (Math.floor(Math.random()*4));  
 // i3 = (Math.floor(Math.random()*4));
+
+// let name = "John";
+
+// function sayHi() {
+//   alert("Hi, " + name);
+// }
+
+// name = "Pete";
+
+// sayHi();
+
+// function makeWorker() {
+//     let name = "Pete";
+  
+//     return function() {
+//       alert(name);
+//     };
+//   }
+  
+//   let name = "John";
+  
+//   let work = makeWorker();
+  
+//   work();
+
+console.log(1);
+
+setTimeout(function() {
+    console.log(2);
+},-0);
+
+console.log(3);
+

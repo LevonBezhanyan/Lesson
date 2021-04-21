@@ -79,3 +79,8 @@
 //  set.add(b);
 
 //  console.log(set);
+
+// let a = 4;
+// let b = 5;
+// parz e te baxadryal
+
